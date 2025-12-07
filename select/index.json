@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "After LIKE",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-07T10:03:07.660092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/01_After_LIKE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "After LIKE (Japanese version)",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/02_After_LIKE_(Japanese_version)_IVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/03_After_LIKE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "After LIKE -Japanese ver.-",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/04_After_LIKE_-Japanese_ver.-_IVE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "After LIKE - Holiday Remix",
+      "artist": "IVE feat. CHASE & DARM",
+      "has_synced": true,
+      "path": "select/05_After_LIKE_-_Holiday_Remix_IVE_feat._CHASE_&_DARM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "After LIKE - Holiday Remix",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/06_After_LIKE_-_Holiday_Remix_IVE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/07_After_LIKE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/08_After_LIKE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/09_After_LIKE_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/10_After_LIKE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/11_After_LIKE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/12_After_LIKE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/13_After_LIKE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/14_After_LIKE_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "After LIKE",
+      "artist": "Kairo Mouse",
+      "has_synced": true,
+      "path": "select/15_After_LIKE_Kairo_Mouse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_After_LIKE_IVE.txt"
+    }
+  ]
+}
